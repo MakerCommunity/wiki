@@ -27,3 +27,7 @@
     - [基础](zh-cn/Python/base.md)
     - [函数](zh-cn/Python/func.md)
     - [对象](zh-cn/Python/object.md)
+
+
+- 【其他】
+    - [文档测试](zh-cn/其他/README.md)
