@@ -1,10 +1,11 @@
 <img width="160px" style="border-radius: 50%" bor src="style/head_portrait.jpg">
 
-# **docsify-demo**
+# **创客社区Wiki**
 
-- 本文档是作者折腾 ```docsify```以来的学习历程<br>旨在为大家提供一个较完整的docsify框架结构<br>如果本文能为您得到帮助，请给予支持！
+- 本文档整理了部分社区的文档<br>旨在方便后续人员查阅<br>所有文章除特别声明外<br>均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议<br>转载请注明来源<br>部分材料来源于互联网如有侵权<br>请联系删除。
 
-![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
+
+![](https://img.shields.io/badge/%E5%88%9B%E5%AE%A2%E7%A4%BE%E5%8C%BA-Roy-orange)
 
 [GitHub](https://github.com/MakerCommunity/wiki)
 [进入社区](https://mc.dfrobot.com.cn/)

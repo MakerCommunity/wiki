@@ -1,7 +1,16 @@
-# **docsify-demo**
-## **[哔哩哔哩作者：-相依-](https://space.bilibili.com/343154012)** &emsp;**UPDATE 2021-2-6**
-> **本项目为大家提供一个较完整的docsify框架结构**
->> **该项目仅限学习交流，请勿用于商业用途，如有侵权，请联系删除。**
+# **创客社区Wiki**
 
--  **[国内优先 Gitee 在线阅读](https://mochazi.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/mochazi/docsify-demo)
--  **[国外优先 GitHub 在线阅读](https://mochazi.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/mochazi/docsify-demo)
+
+该项目仅限学习交流，请勿用于商业用途，如有侵权，请联系删除。
+
+- 本文档整理了部分社区的文档<br>旨在方便后续人员查阅<br>所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。转载请注明来源。
+
+
+- 部分材料来源于互联网如有侵权，请联系删除。
+
+
+![](https://img.shields.io/badge/%E5%88%9B%E5%AE%A2%E7%A4%BE%E5%8C%BA-Roy-orange)
+
+[GitHub](https://github.com/MakerCommunity/wiki)
+[进入社区](https://mc.dfrobot.com.cn/)
+[开始阅读](?id=中文文档)
