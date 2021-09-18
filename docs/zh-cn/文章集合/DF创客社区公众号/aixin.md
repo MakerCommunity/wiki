@@ -1,15 +1,29 @@
 
 # 跳动的爱心
 
+[cinwell website](https://mv.loll.cc/filebrowser/DF/Water%20Rocket%20-%20Launch%20Tests.mp4 ':include :type=video width=500 height=500')
+
+[filename](_media/example.md ':include')
+
+
+[filename](https://mv.loll.cc/filebrowser/DF/Water%20Rocket%20-%20Data%20Visualizer%20Demo.mp4 ':include :type=video')
+
+
 ![](https://cdn.jsdelivr.net/gh/RalstonLiu/VsImage/images/20200805153641.png ':size=50%')
 
 ![](https://cdn.jsdelivr.net/gh/RalstonLiu/VsImage/images/20200805153655.png ':size=50%')
 
 ![20200805153707](https://cdn.jsdelivr.net/gh/RalstonLiu/VsImage/images/20200805153707.png ':size=50%')
 
-<div class="bilibili">
-    <iframe src="//player.bilibili.com/player.html?aid=200193128&bvid=BV1oz411b7Fo&cid=176411877&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" align="center"> </iframe>
-</div>
+
+<iframe 
+    src="//player.bilibili.com/player.html?aid=200193128&bvid=BV1oz411b7Fo&cid=176411877&page=1" 
+    scrolling="no" 
+    style="border:0;width:auto;height:auto;min-height:500px;"
+    allowfullscreen="true"> 
+</iframe>
+
+
 
 这个会根据捧着的人的心跳而跳动的“电子心脏”是焊武帝——jiripraus于妻子五周年纪念日制作的，为了感谢妻子多年来在背后的默默支持，体现了理工男特有的浪漫。
 
