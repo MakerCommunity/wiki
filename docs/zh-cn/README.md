@@ -7,6 +7,17 @@
 -  **[GitHub 在线阅读](https://makercommunity.github.io/wiki/)** | [GitHub 仓库地址](https://github.com/MakerCommunity/wiki)
 
 
+
+### 常用网站
+
+- [创客导航](https://mc.dfrobot.com.cn/links/)
+- [DF创客社区备用下载资料库](https://dfrobot.loll.cc/)
+
+
+
+
+
+
 > [!WARNING]
 > 由于未知原因，为了保证页面正常（如下方访问量不显示数值等），建议请再**刷新一遍页面**查看！
 
