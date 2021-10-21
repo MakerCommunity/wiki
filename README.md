@@ -11,6 +11,7 @@
 
 ![](https://img.shields.io/badge/%E5%88%9B%E5%AE%A2%E7%A4%BE%E5%8C%BA-Roy-orange)
 
-[GitHub](https://github.com/MakerCommunity/wiki)
-[进入社区](https://mc.dfrobot.com.cn/)
+[GitHub主页](https://github.com/MakerCommunity/wiki)
+[进入DF创客社区论坛](https://mc.dfrobot.com.cn/)
 [开始阅读](https://makercommunity.github.io/wiki/)
+
