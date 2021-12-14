@@ -137,8 +137,6 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 
 <img src="https://pic.loll.cc/images/2021/12/14/7a323628257c4987aa2ab193d6b7e52d.png" style="zoom:50%;" />
 
-更正：“Robot”应该是“Roboto”
-
 
 > [!NOTE]
 > 更正：“Robot”应该是“Roboto”
