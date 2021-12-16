@@ -17,7 +17,7 @@
 大体严格程度如下：
 
 
-![](https://pic.loll.cc/images/2021/12/14/42167b0c09a24434b561c30fa03bce46.png ':size=80%')
+![](https://pic.loll.cc/images/2021/12/14/42167b0c09a24434b561c30fa03bce46.png ':size=40%')
 
 
 来源：https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE
@@ -27,10 +27,10 @@
 > 最简单的，找有CC0（Creative Commons，“知识共享”）授权的素材或者进入Public Domain（公有领域）的素材
 
 
-![](https://pic.loll.cc/images/2021/12/14/7f128e27fbc747d8be32264b409f01f8.png ':size=80%')
+![](https://pic.loll.cc/images/2021/12/14/7f128e27fbc747d8be32264b409f01f8.png ':size=30%')
 
 
-![](https://pic.loll.cc/images/2021/12/14/ab39ecd53cbf4dbfa204878e0f5be7c5.png ':size=80%')
+![](https://pic.loll.cc/images/2021/12/14/ab39ecd53cbf4dbfa204878e0f5be7c5.png ':size=30%')
 
 
 ### 开源协议
@@ -43,7 +43,7 @@
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/8df1c478c6de45b091e4f65e899c6e28.png ':size=80%')
+![](https://pic.loll.cc/images/2021/12/14/8df1c478c6de45b091e4f65e899c6e28.png ':size=40%')
 
 
 
@@ -58,7 +58,7 @@ GNU GPL具体为（GNU General Public License，GNU通用公共许可证）。
 #### BSD协议
 
 
-![](https://pic.loll.cc/images/2021/12/14/ae0cbecd8a8147f6b02baa928dda8991.png ':size=80%')
+![](https://pic.loll.cc/images/2021/12/14/ae0cbecd8a8147f6b02baa928dda8991.png ':size=40%')
 
 
 BSD协议具体为（Berkeley Software Distribution，伯克利软件发布版）协议。
@@ -79,7 +79,7 @@ BSD 对商业比较友好，很多公司在选用开源产品的时候都首选 
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/a07e73106fb6466ea5da0815183bdd43.png ':size=80%')
+![](https://pic.loll.cc/images/2021/12/14/a07e73106fb6466ea5da0815183bdd43.png ':size=40%')
 
 Apache 协议具体为许可证版本（Apache License Version）协议，Apache 和 BSD 类似，都适用于商业软件。
 
