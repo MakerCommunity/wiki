@@ -5,23 +5,19 @@
 
 这部分接触的会多一些。
 
-<img src="https://pic.loll.cc/images/2021/12/14/477d1cf6b5774b3c8e9babafb68e3db3.png" style="zoom:50%;" />
+
+![](https://pic.loll.cc/images/2021/12/14/477d1cf6b5774b3c8e9babafb68e3db3.png ':size=80%')
 
 
 
-<img src="https://pic.loll.cc/images/2021/12/14/cca9ca35eb0e4979b50d780f150fb2da.png" style="zoom:50%;" />
+![](https://pic.loll.cc/images/2021/12/14/cca9ca35eb0e4979b50d780f150fb2da.png ':size=80%')
 
-
-
-<img src="https://pic.loll.cc/images/2021/12/14/16a2f3205aed48b2ae7fca56bb346aec.png" style="zoom:50%;" />
-
+![](https://pic.loll.cc/images/2021/12/14/16a2f3205aed48b2ae7fca56bb346aec.png ':size=80%')
 
 大体严格程度如下：
 
 
-
-<img src="https://pic.loll.cc/images/2021/12/14/42167b0c09a24434b561c30fa03bce46.png" style="zoom:50%;" />
-
+![](https://pic.loll.cc/images/2021/12/14/42167b0c09a24434b561c30fa03bce46.png ':size=80%')
 
 
 来源：https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE
@@ -30,11 +26,12 @@
 > [!TIP]
 > 最简单的，找有CC0（Creative Commons，“知识共享”）授权的素材或者进入Public Domain（公有领域）的素材
 
-<img src="https://pic.loll.cc/images/2021/12/14/7f128e27fbc747d8be32264b409f01f8.png" style="zoom:33%;" />
+
+![](https://pic.loll.cc/images/2021/12/14/7f128e27fbc747d8be32264b409f01f8.png ':size=80%')
 
 
+![](https://pic.loll.cc/images/2021/12/14/ab39ecd53cbf4dbfa204878e0f5be7c5.png ':size=80%')
 
-<img src="https://pic.loll.cc/images/2021/12/14/ab39ecd53cbf4dbfa204878e0f5be7c5.png" style="zoom:33%;" />
 
 ### 开源协议
 
@@ -44,7 +41,10 @@
 
 #### GNU GPL协议
 
-<img src="https://pic.loll.cc/images/2021/12/14/8df1c478c6de45b091e4f65e899c6e28.png" style="zoom:50%;" />
+
+
+![](https://pic.loll.cc/images/2021/12/14/8df1c478c6de45b091e4f65e899c6e28.png ':size=80%')
+
 
 
 GNU GPL具体为（GNU General Public License，GNU通用公共许可证）。
@@ -58,9 +58,7 @@ GNU GPL具体为（GNU General Public License，GNU通用公共许可证）。
 #### BSD协议
 
 
-
-<img src="https://pic.loll.cc/images/2021/12/14/ae0cbecd8a8147f6b02baa928dda8991.png" style="zoom:50%;" />
-
+![](https://pic.loll.cc/images/2021/12/14/ae0cbecd8a8147f6b02baa928dda8991.png ':size=80%')
 
 
 BSD协议具体为（Berkeley Software Distribution，伯克利软件发布版）协议。
@@ -79,7 +77,9 @@ BSD 对商业比较友好，很多公司在选用开源产品的时候都首选 
 
 #### Apache 协议
 
-<img src="https://pic.loll.cc/images/2021/12/14/a07e73106fb6466ea5da0815183bdd43.png" style="zoom:50%;" />
+
+
+![](https://pic.loll.cc/images/2021/12/14/a07e73106fb6466ea5da0815183bdd43.png ':size=80%')
 
 Apache 协议具体为许可证版本（Apache License Version）协议，Apache 和 BSD 类似，都适用于商业软件。
 
@@ -135,7 +135,9 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 
 公司可用的字体如下，From 设计：
 
-<img src="https://pic.loll.cc/images/2021/12/14/7a323628257c4987aa2ab193d6b7e52d.png" style="zoom:50%;" />
+
+
+![](https://pic.loll.cc/images/2021/12/14/7a323628257c4987aa2ab193d6b7e52d.png ':size=80%')
 
 
 > [!NOTE]
@@ -166,17 +168,23 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 
 ### Community
 
-<img src="https://pic.loll.cc/images/2021/12/14/imageba8684bb7e216702.png" style="zoom:50%;" />
 
 
+![](https://pic.loll.cc/images/2021/12/14/imageba8684bb7e216702.png ':size=80%')
 
 ### hackster.io
 
-<img src="https://pic.loll.cc/images/2021/12/14/image807c9f7d0b4be839.png" style="zoom:50%;" />
+
+
+![](https://pic.loll.cc/images/2021/12/14/image807c9f7d0b4be839.png ':size=80%')
+
 
 ### 个人博客
 
-<img src="https://pic.loll.cc/images/2021/12/14/imagebc561abebe6a8cf5.png" style="zoom:50%;" />
+
+
+![](https://pic.loll.cc/images/2021/12/14/imagebc561abebe6a8cf5.png ':size=80%')
+
 
 ## 几个无版权资源站
 
