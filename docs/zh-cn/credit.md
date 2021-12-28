@@ -117,9 +117,9 @@ MIT协议具体为（Massachusetts Institute of Technology）协议，又称「X
 
 
 
-#### GUN LGPL协议
+#### GNU LGPL协议
 
-GUN LGPL协议具体是（GNU Lesser General Public License，GNU 宽通用公共许可证）。LGPL 是 GPL 的一个衍生版本，也被称为 GPL V2，该协议主要是为类库设计的开源协议。
+GNU LGPL协议具体是（GNU Lesser General Public License，GNU 宽通用公共许可证）。LGPL 是 GPL 的一个衍生版本，也被称为 GPL V2，该协议主要是为类库设计的开源协议。
 
 LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库，而不需要开源商业软件的代码。这使得采用 LGPL 协议的开源代码可以被商业软件作为类库引用并发布和销售。
 
