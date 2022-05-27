@@ -197,13 +197,12 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 
 ### 音视频类
 
-- https://audiosoundclips.com/
-- https://audionautix.com/about-jason.php
-- https://cctrax.com/
-- https://musopen.org/
-- https://cn.imslp.org/wiki/Main_Page
-- https://freepd.com/
-- https://studio.youtube.com/channel/UCJeNmdZBL8QahqCbzxj4l3Q/music
+- https://audionautix.com/about-jason.php （全站cc0，广告比较多）
+- https://cctrax.com/ （不全是CC0，但是License写得比较清楚）
+- https://musopen.org/ （全站cc0）
+- https://cn.imslp.org/wiki/Main_Page （乐谱库）
+- https://freepd.com/ （全站cc0）
+- https://studio.youtube.com/channel/UCJeNmdZBL8QahqCbzxj4l3Q/music （YouTube使用）
 
 
 
