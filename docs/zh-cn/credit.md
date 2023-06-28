@@ -5,19 +5,18 @@
 
 这部分接触的会多一些。
 
-
-![](https://pic.loll.cc/images/2021/12/14/477d1cf6b5774b3c8e9babafb68e3db3.png ':size=80%')
-
+<img src="https://img.laoda.de/i/2023/06/28/p0a325-0.webp" title=":size=80%"  />
 
 
-![](https://pic.loll.cc/images/2021/12/14/cca9ca35eb0e4979b50d780f150fb2da.png ':size=80%')
 
-![](https://pic.loll.cc/images/2021/12/14/16a2f3205aed48b2ae7fca56bb346aec.png ':size=80%')
+![](https://img.laoda.de/i/2023/06/28/p0eh2d-0.webp ':size=80%')
+
+![](https://img.laoda.de/i/2023/06/28/p0gi3w-0.webp ':size=80%')
 
 大体严格程度如下：
 
 
-![](https://pic.loll.cc/images/2021/12/14/42167b0c09a24434b561c30fa03bce46.png ':size=40%')
+![](https://img.laoda.de/i/2023/06/28/p0i1cb-0.webp ':size=40%')
 
 
 来源：https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE
@@ -26,11 +25,9 @@
 > [!TIP]
 > 最简单的，找有CC0（Creative Commons，“知识共享”）授权的素材或者进入Public Domain（公有领域）的素材
 
+<img src="https://img.laoda.de/i/2023/06/28/p0jwzk-0.webp" title=":size=10%" style="zoom:33%;" />
 
-![](https://pic.loll.cc/images/2021/12/14/7f128e27fbc747d8be32264b409f01f8.png ':size=10%')
-
-
-![](https://pic.loll.cc/images/2021/12/14/ab39ecd53cbf4dbfa204878e0f5be7c5.png ':size=10%')
+<img src="https://img.laoda.de/i/2023/06/28/p0ub0c-0.webp" title=":size=10%" style="zoom:33%;" />
 
 
 ### 开源协议
@@ -43,7 +40,7 @@
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/8df1c478c6de45b091e4f65e899c6e28.png ':size=20%')
+![](https://img.laoda.de/i/2023/06/28/p0w7bo-0.webp ':size=20%')
 
 
 
@@ -58,7 +55,7 @@ GNU GPL具体为（GNU General Public License，GNU通用公共许可证）。
 #### BSD协议
 
 
-![](https://pic.loll.cc/images/2021/12/14/ae0cbecd8a8147f6b02baa928dda8991.png ':size=20%')
+![](https://img.laoda.de/i/2023/06/28/p0xjmg-0.webp ':size=20%')
 
 
 BSD协议具体为（Berkeley Software Distribution，伯克利软件发布版）协议。
@@ -79,7 +76,7 @@ BSD 对商业比较友好，很多公司在选用开源产品的时候都首选 
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/a07e73106fb6466ea5da0815183bdd43.png ':size=20%')
+![](https://img.laoda.de/i/2023/06/28/p0ymcw-0.webp ':size=20%')
 
 Apache 协议具体为许可证版本（Apache License Version）协议，Apache 和 BSD 类似，都适用于商业软件。
 
@@ -137,7 +134,7 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/7a323628257c4987aa2ab193d6b7e52d.png ':size=80%')
+![](https://img.laoda.de/i/2023/06/28/p10228-0.webp ':size=80%')
 
 
 > [!NOTE]
@@ -170,20 +167,20 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/imageba8684bb7e216702.png ':size=80%')
+<img src="https://img.laoda.de/i/2023/06/28/p127in-0.webp" title=":size=80%" style="zoom:50%;" />
 
 ### hackster.io
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/image807c9f7d0b4be839.png ':size=80%')
+<img src="https://img.laoda.de/i/2023/06/28/p13uzk-0.webp" title=":size=80%" style="zoom:50%;" />
 
 
 ### 个人博客
 
 
 
-![](https://pic.loll.cc/images/2021/12/14/imagebc561abebe6a8cf5.png ':size=80%')
+<img src="https://img.laoda.de/i/2023/06/28/p15mem-0.webp" title=":size=80%" style="zoom:50%;" />
 
 
 ## 几个无版权资源站
@@ -194,6 +191,7 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 - https://stocksnap.io/
 - https://pixabay.com/
 - https://unsplash.com/
+- https://www.pexels.com/
 
 ### 音视频类
 
@@ -208,7 +206,7 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 
 最后，引用他人的作品，尤其是开源作品，务必注明出处和原作者的信息，这是对原作者最基本尊重。
 
-
+更多实用小工具可以到这边查看：https://nav.laoda.de/
 
 ## 参考资料
 
