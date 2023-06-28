@@ -1,10 +1,4 @@
-- 【前言】
-    - [简介](zh-cn/README.md)
-    
-
 <!-- docs/_sidebar.md -->
-
-* [【指南】](zh-cn/guide)
 - 【写作规范】
     - [中文技术文档](zh-cn/写作规范/README)
     - [DF创客社区论坛](zh-cn/写作规范/DF创客社区论坛)
