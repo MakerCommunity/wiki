@@ -1,10 +1,19 @@
 
-/* 置顶插件 */
+/* 置顶按钮 */
 .to-top {
     display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
     padding: 10px 20px;
-    margin-right: 10px;
     color: #fff;
     border-radius: 10px;
     background-color: rgb(66, 185, 131);
+    cursor: pointer;
+    z-index: 999;
+    font-size: 14px;
+    transition: opacity 0.3s;
+}
+.to-top:hover {
+    opacity: 0.8;
 }

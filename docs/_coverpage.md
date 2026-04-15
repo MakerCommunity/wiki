@@ -9,4 +9,4 @@
 
 [GitHub](https://github.com/MakerCommunity/wiki)
 [进入社区](https://mc.dfrobot.com.cn/)
-[开始阅读](?id=中文文档)
+[开始阅读](zh-cn/)
