@@ -130,23 +130,17 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 ## 字体
 
 
-公司可用的字体如下，From 设计：
+公司目前可用的字体如下，From 设计：
 
+| 使用场景 | 可用字体 | 说明 |
+| --- | --- | --- |
+| 推广类海报、Banner、印刷物料等 | 汉仪旗黑 / 汉仪其他授权字体 | 具体以公司已购买授权范围为准 |
+| 网页使用字体 | Roboto、Poppins、阿里巴巴普惠体 2.0 / 3.0 | 英文可用 Roboto / Poppins，中文可用阿里巴巴普惠体 |
 
+> [!WARNING]
+> 微软雅黑不再作为公司可用字体使用，不建议用于对外发布的网页、海报、Banner 或印刷物料。
 
-![](https://img.laoda.de/i/2023/06/28/p10228-0.webp ':size=80%')
-
-
-> [!NOTE]
-> 更正：“Robot”应该是“Roboto”
-
-
-
-中文一般用汉仪就够了，汉仪全套均已购买授权；
-
-英文用Roboto即可。
-
-英文更多免费字体，见：https://fonts.google.com
+英文更多可免费商用的开源字体，可在 [Google Fonts](https://fonts.google.com/) 查找；具体使用与再分发条件以对应字体的 License 为准。
 
 
 
@@ -215,4 +209,3 @@ LGPL 允许商业软件通过类库引用（link）的方式使用 LGPL 类库�
 - https://www.eet-china.com/mp/a47898.html
 - https://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html
 - 维基百科
-
